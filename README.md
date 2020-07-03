@@ -1,5 +1,6 @@
-### Hi there 👋
 
+
+![](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBZ11Sh.img?h=1066&w=1598&m=6&q=60&o=f&l=f&x=680&y=322)
 <!--
 **seanyellow/seanyellow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
